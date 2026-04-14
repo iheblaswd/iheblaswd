@@ -6,8 +6,8 @@ I architect backend-heavy systems and bridge the gap between complex engineering
 
 My toolkit is built for scale and reliability:
 
-Backend: Java, Spring Boot, Kafka, and Microservices architecture.
+Backend: Java 17 , Spring Boot, Kafka, and Microservices architecture.
 
-Frontend: Building intuitive, data-driven interfaces for complex SaaS modules.
+Frontend: Vue 3 , Next JS , TS , tailwind , Quasar , Vuetify.
 
-DevOps: Dockerization, CI/CD pipelines, and robust monitoring with Prometheus and Grafana.
+DevOps: Dockerization, CI/CD pipelines.
