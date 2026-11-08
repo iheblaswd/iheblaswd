@@ -1,13 +1,11 @@
+## 👋 Hi, I'm Iheb Lassoued
 
-Hey there! 💪
-I’m a Full Stack Engineer based in Tunisia, currently building high-performance solutions at Teamwill Tunisia.
+Software engineer with 4+ years of experience building finance, insurance and banking products, currently completing a Master's in ERP Systems & Digital Transformation.
 
-I architect backend-heavy systems and bridge the gap between complex engineering and business strategy.
+- 🏗️ Focus: enterprise cloud-native architecture, Java/Spring Boot microservices, DevOps automation
+- 💻 Frontend: TypeScript, Vue 3 — mobile apps on Android/Play Store
+- 🚀 Building my own SaaS products (invoicing & logistics) and launching a startup
+- 🤖 Exploring AI agents and Claude-based tooling
+- 🌍 Based in Tunisia, open to collaboration and freelance work
 
-My toolkit is built for scale and reliability:
-
-Backend: Java 17 , Spring Boot, Kafka, and Microservices architecture.
-
-Frontend: Vue 3 , Next JS , TS , tailwind , Quasar , Vuetify.
-
-DevOps: Dockerization, CI/CD pipelines.
+🔗 [Portfolio](https://iheb-portfolio.pages.dev/) · [LinkedIn](https://linkedin.com/in/iheb-lassoued-47809b1b3)
